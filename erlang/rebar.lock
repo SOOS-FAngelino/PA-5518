@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"certifi">>,{pkg,<<"certifi">>,<<"2.8.0">>},3}]}.
+[
+{pkg_hash,[
+ {<<"certifi">>, <<"D4FB0A6BB20B7C9C3643E22507E42F356AC090A1DCEA9AB99E27E0376D695EBA">>}]}
+{pkg_hash_ext,[
+ {<<"certifi">>, <<"6AC7EFC1C6F8600B08D625292D4BBF584E14847CE1B6B5C44D983D273E1097EA">>}]}
+].

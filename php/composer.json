@@ -1,0 +1,10 @@
+{
+  "name": "acme/phpproj",
+  "version": "1.0.0",
+  "type": "project",
+  "description": "Demo project to test PHP pre-processor.",
+  "license": "MIT",
+  "require": {
+	  "phpunit/phpunit": "^9.5.9"
+  }
+}
