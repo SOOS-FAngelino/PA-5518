@@ -5,9 +5,7 @@ tap "homebrew/cask"
 cask_args appdir: "~/Applications", require_sha: true
 
 # 'brew install'
-brew "zeromq"
 brew "exiv2"
-brew "quill"
 
 # 'brew install --cask'
 cask "google-chrome"
